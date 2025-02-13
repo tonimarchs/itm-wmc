@@ -1,3 +1,5 @@
 dashboard untuk isd itm 
 - terus belajar git hub
 - pelajari detail sql query dan public speak
+- nambahin orang
+- belajar banyak hal baru
