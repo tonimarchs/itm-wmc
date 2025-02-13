@@ -3,3 +3,4 @@ dashboard untuk isd itm
 - pelajari detail sql query dan public speak
 - nambahin orang
 - belajar banyak hal baru
+- hapus lagi yang close
